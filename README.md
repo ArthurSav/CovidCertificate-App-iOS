@@ -13,6 +13,7 @@ The certificates are kept and checked locally on the user's phone.
 
 <a href='https://apps.apple.com/us/app/covid-certificate/id1565917320'>
 <img alt='Download on the App Store' src='badge-appstore.svg' width='25%'/>
+
 </a>
 
 <p align="center">
