@@ -12,7 +12,7 @@ on:
 
 jobs:
   build:
-    runs-on: macos-12
+    runs-on: ubuntu-latest
     steps:
       - uses: mobile-dev-inc/action-upload@v2.3.0
         with:
