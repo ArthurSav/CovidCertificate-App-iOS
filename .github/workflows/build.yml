@@ -1,8 +1,5 @@
 name: build
 
-env:
-  XCODE_VERSION: 'Xcode_13.4.1'
-
 on:
   workflow_dispatch:
   push:
@@ -19,4 +16,3 @@ jobs:
           api-key: ${{ secrets.MOBILE_DEV_API_KEY }}
           name: ${{ github.sha }}
           app-file: ./build/CovidCertificateVerifier.app
-          workspace: .mobiledev
