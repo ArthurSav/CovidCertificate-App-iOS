@@ -1,4 +1,4 @@
-name: CovidApp
+name: build
 
 env:
   XCODE_VERSION: 'Xcode_13.4.1'
